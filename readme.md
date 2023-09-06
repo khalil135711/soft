@@ -1,8 +1,8 @@
-E-Mail-Antwortgenerator
+## E-Mail-Antwortgenerator
 
 Dies ist eine einfache Python-Anwendung, die das OpenAI GPT-3-Modell verwendet, um E-Mail-Antwortvorschläge basierend auf empfangenem E-Mail-Text zu generieren. Es bietet eine grafische Benutzeroberfläche (GUI) mithilfe der Tkinter-Bibliothek für die Benutzerinteraktion.
 
-Voraussetzungen
+## Voraussetzungen
 Bevor Sie diese Anwendung ausführen, stellen Sie sicher, dass Sie die folgenden Voraussetzungen installiert haben:
 
 Python 3.x
@@ -16,7 +16,7 @@ Sie können die erforderlichen Pakete mit pip installieren:
 pip install openai tkinter Pillow
 (oder bezitzen sie setup.bat)
 
--Erste Schritte
+## Erste Schritte
 
 Klonen Sie dieses Repository auf Ihre lokale Maschine oder laden Sie den Quellcode herunter.
 
@@ -33,7 +33,8 @@ Starten Sie die Anwendung, indem Sie das Python-Skript ausführen:
 
 cd ../soft-Moj
 python main.py
-Verwendung
+
+## Verwendung
 Starten Sie die Anwendung, und das GUI-Fenster wird angezeigt.
 
 Im Eingabetextbereich fügen Sie den E-Mail-Text ein oder tippen ihn ein, für den Sie eine Antwortvorschlag generieren möchten.
@@ -44,7 +45,7 @@ Die generierte E-Mail-Antwort wird im Textbereich unten unter der Eingabe angeze
 
 Sie können die generierte Antwort in Ihren E-Mail-Client kopieren und einfügen und gegebenenfalls Bearbeitungen vornehmen.
 
-Anpassung
+## Anpassung
 Sie können verschiedene Aspekte der Anwendung anpassen:
 
 Ändern Sie das Erscheinungsbild, indem Sie den Fenstertitel, die Abmessungen und das Hintergrundbild ändern.
@@ -60,10 +61,6 @@ Die Leistung der Anwendung kann je nach Ihrer Internetverbindung und der Antwort
 
 Stellen Sie sicher, dass Sie die erforderlichen Berechtigungen für die Verwendung des Hintergrundbilds in Ihrer Anwendung haben.
 
-Lizenz
-Diese Anwendung wird unter der MIT-Lizenz bereitgestellt. Details finden Sie in der LICENSE-Datei.
-
-Fühlen Sie sich frei, diese Anwendung entsprechend Ihren Bedürfnissen zu modifizieren und zu erweitern. Wenn Sie auf Probleme stoßen oder Fragen haben, kontaktieren Sie uns bitte.
 
 Viel Spaß beim Verwenden des E-Mail-Antwortgenerators!
 
