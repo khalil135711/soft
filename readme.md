@@ -1,6 +1,8 @@
 ## E-Mail-Antwortgenerator
 ![Screenshot (749)](https://github.com/khalil135711/soft/assets/89642249/41729df4-20a2-496b-baf1-5f89a546027f)
 
+### test beispiel:
+![WhatsApp Image 2023-09-06 at 04 34 45](https://github.com/khalil135711/soft/assets/89642249/60c99be2-eaa9-4cc3-b5aa-450f25258c05)
 
 Dies ist eine einfache Python-Anwendung, die das OpenAI GPT-3-Modell verwendet, um E-Mail-Antwortvorschläge basierend auf empfangenem E-Mail-Text zu generieren. Es bietet eine grafische Benutzeroberfläche (GUI) mithilfe der Tkinter-Bibliothek für die Benutzerinteraktion.
 
